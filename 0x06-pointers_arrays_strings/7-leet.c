@@ -4,3 +4,5 @@
  * @n: input value
  * Return: n value
  */
+char *leet(char *n)
+
