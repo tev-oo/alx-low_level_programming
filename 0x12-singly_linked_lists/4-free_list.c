@@ -1,8 +1,8 @@
 #include "lists.h"
 
 /**
- * free_list - Frees a list
- * @head: list_t list of the linked list.
+ * free_list - Frees a list(active_node)
+ * @head: list_t list From the beginning of the linked list.
  *
  */
 
