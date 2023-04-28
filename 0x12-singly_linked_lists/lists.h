@@ -6,10 +6,9 @@
  * struct list_s - singly linked list
  * @str: string - (malloc'ed string)
  * @len: length of the string
- * @next: points to the next node
- *
+ * @next:Ppoints to the next element
  * Description: linked list node structure
- * Prototypes and functions types
+ * Prototypes and functions types for each tasks
  */
 typedef struct list_s
 {
