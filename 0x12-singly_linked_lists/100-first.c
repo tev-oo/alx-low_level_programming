@@ -3,8 +3,8 @@
 void hare(void)__attribute__ ();
 
 /**
- * hare - prints a sentence
- * function is executed
+ * hare - Prints a 3 lines of sentenses
+ * function is executed after the 2 lines run
  */
 void hare(void)
 {
