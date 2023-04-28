@@ -2,11 +2,10 @@
 #include "lists.h"
 
 /**
- * add_node_end - Adds a new element at the end of a list
+ * add_node_end - Adds a new element at the end of a list(length)
  * @head: First element of the list
- * @str: The string to put in the list
- *
- * Return: NULL if it fails, else the New
+ * @str: The string to put in the list>length
+ * Return: NULL if it fails, else the New from head
  */
 list_t *add_node_end(list_t **head, const char *str)
 {
